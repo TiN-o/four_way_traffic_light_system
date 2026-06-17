@@ -87,9 +87,6 @@ Safety: Successfully implemented an "Interlock" mechanism. The Red lights were a
 
 Timing Adjustability: The ON-Delay timer settings were easily adjusted from 1 second (simulation) to 10 seconds (demonstration), showcasing the system's flexibility for different traffic densities.
 
-6.3 Simulation Snapshot
-(Here you could include a screenshot from CADe_SIMU showing the active circuit, lamps, and timer values.)
-
-
+6.3 Simulation Snapshot: https://drive.google.com/file/d/1TKAUFJ8wGY_ujFaICz1382fZu_exlYfX/view?usp=sharing
 7. Conclusion:
 The Four-Way Traffic Light Control System project successfully demonstrates the application of electrical control logic in managing critical urban infrastructure. Using CADe_SIMU, the team constructed a reliable simulation that confirms the core objectives of safety, efficiency, and sequential control. The project validates the use of timer relays as effective tools for process control and establishes a solid foundation for transitioning to smart, PLC-controlled traffic management systems.
